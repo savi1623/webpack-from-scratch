@@ -1,0 +1,3 @@
+{
+  "presets": ["@babel/stylpreset-env", "@babel/preset-react"]
+}
